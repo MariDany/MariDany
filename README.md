@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MariDany
-- 👀 I’m interested in coding, cooking and baking
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on different kind of proyects
+- 👀 I’m interested in coding, cooking and bakings
 - 📫 How to reach me Email: maridany0597@gmail.com, you can also ask to add you on discord~ 
 
 <!---
